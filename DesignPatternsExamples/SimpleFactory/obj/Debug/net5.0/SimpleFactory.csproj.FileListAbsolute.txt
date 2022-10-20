@@ -1,0 +1,16 @@
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\bin\Debug\net5.0\SimpleFactory.exe
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\bin\Debug\net5.0\SimpleFactory.deps.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\bin\Debug\net5.0\SimpleFactory.runtimeconfig.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\bin\Debug\net5.0\SimpleFactory.runtimeconfig.dev.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\bin\Debug\net5.0\SimpleFactory.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\bin\Debug\net5.0\ref\SimpleFactory.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\bin\Debug\net5.0\SimpleFactory.pdb
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\obj\Debug\net5.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\obj\Debug\net5.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\obj\Debug\net5.0\SimpleFactory.AssemblyInfo.cs
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\obj\Debug\net5.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\obj\Debug\net5.0\SimpleFactory.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\obj\Debug\net5.0\ref\SimpleFactory.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\obj\Debug\net5.0\SimpleFactory.pdb
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\obj\Debug\net5.0\SimpleFactory.genruntimeconfig.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\SimpleFactory\obj\Debug\net5.0\SimpleFactory.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\obj\Debug\net5.0\ShoppingFacade.csproj.AssemblyReference.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\obj\Debug\net5.0\ShoppingFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\obj\Debug\net5.0\ShoppingFacade.AssemblyInfoInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\obj\Debug\net5.0\ShoppingFacade.AssemblyInfo.cs
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\obj\Debug\net5.0\ShoppingFacade.csproj.CoreCompileInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\bin\Debug\net5.0\ShoppingFacade.deps.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\bin\Debug\net5.0\ShoppingFacade.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\bin\Debug\net5.0\ref\ShoppingFacade.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\bin\Debug\net5.0\ShoppingFacade.pdb
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\bin\Debug\net5.0\ShoppingCart.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\bin\Debug\net5.0\ShoppingCart.pdb
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\obj\Debug\net5.0\ShoppingFacade.csproj.CopyComplete
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\obj\Debug\net5.0\ShoppingFacade.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\obj\Debug\net5.0\ref\ShoppingFacade.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingFacade\obj\Debug\net5.0\ShoppingFacade.pdb

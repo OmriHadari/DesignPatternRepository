@@ -1,0 +1,16 @@
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\bin\Debug\net5.0\Memento.exe
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\bin\Debug\net5.0\Memento.deps.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\bin\Debug\net5.0\Memento.runtimeconfig.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\bin\Debug\net5.0\Memento.runtimeconfig.dev.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\bin\Debug\net5.0\Memento.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\bin\Debug\net5.0\ref\Memento.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\bin\Debug\net5.0\Memento.pdb
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\obj\Debug\net5.0\Memento.csproj.AssemblyReference.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\obj\Debug\net5.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\obj\Debug\net5.0\Memento.AssemblyInfoInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\obj\Debug\net5.0\Memento.AssemblyInfo.cs
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\obj\Debug\net5.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\obj\Debug\net5.0\Memento.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\obj\Debug\net5.0\ref\Memento.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\obj\Debug\net5.0\Memento.pdb
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Memento\obj\Debug\net5.0\Memento.genruntimeconfig.cache

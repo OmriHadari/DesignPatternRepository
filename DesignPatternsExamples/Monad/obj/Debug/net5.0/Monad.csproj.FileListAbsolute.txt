@@ -1,0 +1,16 @@
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\bin\Debug\net5.0\Monad.exe
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\bin\Debug\net5.0\Monad.deps.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\bin\Debug\net5.0\Monad.runtimeconfig.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\bin\Debug\net5.0\Monad.runtimeconfig.dev.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\bin\Debug\net5.0\Monad.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\bin\Debug\net5.0\ref\Monad.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\bin\Debug\net5.0\Monad.pdb
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\obj\Debug\net5.0\Monad.csproj.AssemblyReference.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\obj\Debug\net5.0\Monad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\obj\Debug\net5.0\Monad.AssemblyInfoInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\obj\Debug\net5.0\Monad.AssemblyInfo.cs
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\obj\Debug\net5.0\Monad.csproj.CoreCompileInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\obj\Debug\net5.0\Monad.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\obj\Debug\net5.0\ref\Monad.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\obj\Debug\net5.0\Monad.pdb
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Monad\obj\Debug\net5.0\Monad.genruntimeconfig.cache

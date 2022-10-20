@@ -1,0 +1,12 @@
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\bin\Debug\net5.0\ShoppingCart.deps.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\bin\Debug\net5.0\ShoppingCart.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\bin\Debug\net5.0\ref\ShoppingCart.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\bin\Debug\net5.0\ShoppingCart.pdb
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\obj\Debug\net5.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\obj\Debug\net5.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\obj\Debug\net5.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\obj\Debug\net5.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\obj\Debug\net5.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\obj\Debug\net5.0\ShoppingCart.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\obj\Debug\net5.0\ref\ShoppingCart.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\ShoppingCart\obj\Debug\net5.0\ShoppingCart.pdb

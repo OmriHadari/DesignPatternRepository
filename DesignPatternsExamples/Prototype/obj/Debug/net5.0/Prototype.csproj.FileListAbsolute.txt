@@ -1,0 +1,16 @@
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\bin\Debug\net5.0\Prototype.exe
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\bin\Debug\net5.0\Prototype.deps.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\bin\Debug\net5.0\Prototype.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\bin\Debug\net5.0\Prototype.pdb
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\obj\Debug\net5.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\obj\Debug\net5.0\Prototype.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\obj\Debug\net5.0\Prototype.pdb
+C:\Users\omrih\Desktop\CSProjects\DesignPatternsExamples\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache

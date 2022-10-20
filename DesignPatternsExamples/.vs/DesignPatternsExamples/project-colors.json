@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a86c763-2e33-4dc4-84c1-dbe3e51de3d0": {
+      "ProjectGuid": "9a86c763-2e33-4dc4-84c1-dbe3e51de3d0",
+      "DisplayName": "Command",
+      "ColorIndex": 0
+    },
+    "2f1dd101-f6b9-48af-9098-16c600d8936e": {
+      "ProjectGuid": "2f1dd101-f6b9-48af-9098-16c600d8936e",
+      "DisplayName": "Memento",
+      "ColorIndex": 1
+    },
+    "cd347dc2-8d88-4d59-891c-06adcb581873": {
+      "ProjectGuid": "cd347dc2-8d88-4d59-891c-06adcb581873",
+      "DisplayName": "SimpleFactory",
+      "ColorIndex": 2
+    },
+    "c185abae-7998-4d3a-8500-f3c9bd8fbc5c": {
+      "ProjectGuid": "c185abae-7998-4d3a-8500-f3c9bd8fbc5c",
+      "DisplayName": "Builder",
+      "ColorIndex": 3
+    },
+    "9d52bd1b-a0d7-4d12-8bf6-6344fb7b0cb3": {
+      "ProjectGuid": "9d52bd1b-a0d7-4d12-8bf6-6344fb7b0cb3",
+      "DisplayName": "State",
+      "ColorIndex": 4
+    },
+    "55073fc2-3d69-41b8-886f-48e679089fd9": {
+      "ProjectGuid": "55073fc2-3d69-41b8-886f-48e679089fd9",
+      "DisplayName": "Visitor",
+      "ColorIndex": 5
+    },
+    "9d91a399-1254-4520-9055-77c589e75f88": {
+      "ProjectGuid": "9d91a399-1254-4520-9055-77c589e75f88",
+      "DisplayName": "Strategy",
+      "ColorIndex": 6
+    },
+    "817ac608-0214-476c-b694-afd285376bdb": {
+      "ProjectGuid": "817ac608-0214-476c-b694-afd285376bdb",
+      "DisplayName": "TemplateMethod",
+      "ColorIndex": 7
+    },
+    "1c90a263-75ef-4ed8-8c7a-49aca1c07190": {
+      "ProjectGuid": "1c90a263-75ef-4ed8-8c7a-49aca1c07190",
+      "DisplayName": "Monoid",
+      "ColorIndex": 8
+    },
+    "e8135b4b-efa2-4f94-b36e-fde2ce383ff5": {
+      "ProjectGuid": "e8135b4b-efa2-4f94-b36e-fde2ce383ff5",
+      "DisplayName": "Decorator",
+      "ColorIndex": 9
+    },
+    "227043d8-a5a0-476a-8ea5-c5fcb43a53ae": {
+      "ProjectGuid": "227043d8-a5a0-476a-8ea5-c5fcb43a53ae",
+      "DisplayName": "Proxy",
+      "ColorIndex": 10
+    },
+    "956b3101-54b3-48b0-84a6-448d0319250c": {
+      "ProjectGuid": "956b3101-54b3-48b0-84a6-448d0319250c",
+      "DisplayName": "Composite",
+      "ColorIndex": 11
+    },
+    "d494fb93-8e97-43a9-80a9-66758117f05d": {
+      "ProjectGuid": "d494fb93-8e97-43a9-80a9-66758117f05d",
+      "DisplayName": "Flyweight",
+      "ColorIndex": 12
+    },
+    "ebca4180-45ca-47de-aed9-e9dc1a6da0d4": {
+      "ProjectGuid": "ebca4180-45ca-47de-aed9-e9dc1a6da0d4",
+      "DisplayName": "Monad",
+      "ColorIndex": 13
+    },
+    "2da39a20-33cc-45a9-a01a-415d3e318705": {
+      "ProjectGuid": "2da39a20-33cc-45a9-a01a-415d3e318705",
+      "DisplayName": "Singleton",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}
